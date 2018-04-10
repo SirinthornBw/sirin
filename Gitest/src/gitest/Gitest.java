@@ -17,6 +17,7 @@ public class Gitest {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Master test");
+        System.out.println("E Sad Pop eiei");
     }
     
 }
